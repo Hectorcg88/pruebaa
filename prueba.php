@@ -8,7 +8,6 @@ $suma = $valor1 + $valor2;
 
 // Devuelve el resultado
 echo "La suma de $valor1 y $valor2 es: $suma";
-echo "a";
 
 
 ?>
